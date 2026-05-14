@@ -1,120 +1,149 @@
+```md
+<div align="center">
 
-<h6 align="center">
-Hi there 👋, I'm Bharath Shyam<br>🚀 Full Stack Developer (.NET & MERN) | UI/UX Designer<br><br>🚀 Passionate about building scalable web applications, modern APIs, and user-friendly UI/UX experiences.<br>💡 Experienced in MERN Stack, .NET Core Web API, SQL Server, and React development.<br>🎯 Interested in Full Stack Development, Backend Engineering, and UI/UX Design.
-</h6>
+# Hi 👋, I'm Bharath Shyam
 
-<h6 align="center">Connect with me:</h6>
-<p align="center">
-<a href="https://linkedin.com/in/bharathshyam109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathshyam109" height="30" width="40" /></a>
-</p>
+### 🚀 Full Stack Developer (.NET & MERN) | UI/UX Designer
 
-<h6 align="center">Languages and Tools:</h6>
-<p align="center"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a> 
-  
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a> 
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a> 
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
-  </a> 
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> 
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
-  
-  </p>
+<img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="180"/>
 
-  <img align="right" height="150" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif"  />
+💻 Passionate about building scalable web applications, secure APIs, and modern UI/UX experiences.  
+⚡ Experienced in MERN Stack, .NET Core Web API, SQL Server, and React.js.  
+🎯 Interested in Full Stack Development, Backend Engineering, and UI/UX Design.
 
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/bharathshyam109" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shyambharath50@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bharathshyam">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://bharath-portfolio-1jf8.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=orange"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,js,python,html,css" />
+
+---
+
+### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,bootstrap,redux,vite" />
+
+---
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+
+---
+
+### ☁️ Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify" />
+
+---
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 MERN E-Commerce Platform
+✨ Full Stack E-Commerce Application with:
+
+- 🔐 JWT Authentication & Authorization
+- 🛍️ Product CRUD Operations
+- 💳 Stripe Payment Integration
+- ☁️ Cloudinary Image Upload
+- 📦 Admin Dashboard
+- 🔎 Search, Filter & Pagination
+- 📱 Fully Responsive UI
+
+🔗 Live Demo:  
+https://ecommercebscartfrontend.onrender.com
+
+---
+
+## 🎟️ Freelance Lottery Websites
+
+🔗 https://luckygoldlottery.vercel.app/
+
+🔗 https://kathivellottery.vercel.app/
+
+---
+
+## 🎬 Book My Show Clone
+Developed a React-based movie booking platform with a team of 8 members.
+
+---
+
+## 📊 Power BI Dashboard
+Created HR Analytics Dashboard integrating Excel & SQL datasets.
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bharathshyam&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathshyam&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathshyam&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🏅 Centum in 12th Computer Science (Python)  
+🏅 Rajya Puraskar Award - Bharat Scout Club  
+🏅 District Level Ball Badminton Winner  
+🏅 Unified International English Olympiad Certificate  
+
+---
+
+# 🔥 Current Focus
+
+✅ .NET 8 Web API  
+✅ MERN Full Stack Development  
+✅ Clean Architecture  
+✅ Docker & Cloud Deployment  
+✅ Advanced Backend Development  
+
+---
+
+<div align="center">
+
+### ✨ "Code. Design. Build. Repeat." ✨
+
+<img src="https://komarev.com/ghpvc/?username=Bharathshyam&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+```
