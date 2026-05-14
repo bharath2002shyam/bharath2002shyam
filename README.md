@@ -116,3 +116,5 @@ Hi there 👋, I'm Bharath Shyam<br>🚀 Full Stack Developer (.NET & MERN) | UI
   
   </p>
 
+  <img align="right" height="150" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif"  />
+
