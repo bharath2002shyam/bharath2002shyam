@@ -1,8 +1,8 @@
 <h5 align="center">Hi there 👋, I'm Bharath Shyam<br></h5>
-<h6 align="center">
-Hi there 👋, I'm Bharath Shyam<br>🚀 Full Stack Developer (.NET & MERN) | UI/UX Designer<br><br>🚀 Passionate about building scalable web applications, modern APIs, and user-friendly UI/UX experiences.<br>💡 Experienced in MERN Stack, .NET Core Web API, SQL Server, and React development.<br>🎯 Interested in Full Stack Development, Backend Engineering, and UI/UX Design.
+<h6 align="center" width="40">
+🚀 Full Stack Developer (.NET & MERN) | UI/UX Designer<br><br>🚀 Passionate about building scalable web applications, modern APIs, and user-friendly UI/UX experiences.<br>💡 Experienced in MERN Stack, .NET Core Web API, SQL Server, and React development.<br>🎯 Interested in Full Stack Development, Backend Engineering, and UI/UX Design.
 </h6>
-
+  <img align="right" height="150" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="40"  />
 <h6 align="center">Connect with me:</h6>
 <p align="center">
 <a href="https://linkedin.com/in/bharathshyam109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathshyam109" height="30" width="40" /></a>
@@ -116,4 +116,4 @@ Hi there 👋, I'm Bharath Shyam<br>🚀 Full Stack Developer (.NET & MERN) | UI
   
   </p>
 
-  <img align="right" height="150" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif"  />
+
