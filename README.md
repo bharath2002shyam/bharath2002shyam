@@ -1,11 +1,6 @@
 
-
-<h3 align="center">Hi 👋, I'm Bharath Shyam</h3>
-<h5 align="center">🚀 Full Stack Developer (.NET & MERN) | UI/UX Designer</h5>
-
-#### 💫 About Me:
 <h6 align="center">
-Hi there 👋, I'm Bharath Shyam<br>Full Stack Developer (.NET & MERN) | UI/UX Designer<br><br>🚀 Passionate about building scalable web applications, modern APIs, and user-friendly UI/UX experiences.<br>💡 Experienced in MERN Stack, .NET Core Web API, SQL Server, and React development.<br>🎯 Interested in Full Stack Development, Backend Engineering, and UI/UX Design.
+Hi there 👋, I'm Bharath Shyam<br>🚀 Full Stack Developer (.NET & MERN) | UI/UX Designer<br><br>🚀 Passionate about building scalable web applications, modern APIs, and user-friendly UI/UX experiences.<br>💡 Experienced in MERN Stack, .NET Core Web API, SQL Server, and React development.<br>🎯 Interested in Full Stack Development, Backend Engineering, and UI/UX Design.
 </h6>
 
 <h3 align="left">Connect with me:</h3>
