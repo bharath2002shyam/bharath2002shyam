@@ -4,7 +4,7 @@
 🚀 Full Stack Developer (.NET & MERN) | UI/UX Designer<br><br>🚀 Passionate about building scalable web applications, modern APIs, and user-friendly UI/UX experiences.<br>💡 Experienced in MERN Stack, .NET Core Web API, SQL Server, and React development.<br>🎯 Interested in Full Stack Development, Backend Engineering, and UI/UX Design.
 </h6>
 
-  <img align="right" height="150" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="40"  />
+  <img align="right"  width="40" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif"  />
 </div>
 
 
