@@ -12,17 +12,16 @@
 
 <h6 align="center">Languages and Tools:</h6>
 <p align="center"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
+
   
-  <a href="" target="_blank" rel="noreferrer"> 
+ 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a> 
+
   
-  <a href="" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
-  </a> 
+
   
   <a href="" target="_blank" rel="noreferrer"> 
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
